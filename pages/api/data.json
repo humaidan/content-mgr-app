@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern",
+    "description": "I would like to learn singleton in JS language, it's important for my work",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Introduction to React",
+    "description": "Get started with React, a popular JavaScript library for building user interfaces.",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 90,
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "title": "Python for Data Science",
+    "description": "Learn Python programming language for data analysis and machine learning.",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 1,
+    "timeToFinish": 180,
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "title": "JavaScript Fundamentals",
+    "description": "Master the core concepts of JavaScript programming language.",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 150,
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "title": "Database Design and SQL",
+    "description": "Learn about database design principles and SQL queries for managing data.",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "title": "Web Development with Node.js",
+    "description": "Build dynamic web applications using Node.js and Express framework.",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 180,
+    "status": "inactive"
+  }
+]
