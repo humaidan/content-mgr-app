@@ -1,4 +1,3 @@
-
 import Layout from "components/Layout";
 import ResourceHighlight from "components/ResourceHighlight";
 import Newsletter from "components/Newsletter";
@@ -21,7 +20,7 @@ function Home({resources}) {
 }
 
 export async function getServerSideProps() {
-  const resData = await fetch("http://localhost:3000/api/resources");
+  const resData = await fetch(`${process.env.API_URL}/resources`);
   const data = await resData.json();
 
   return {
@@ -30,16 +29,5 @@ export async function getServerSideProps() {
     }
   }
 }
-
-// export async function getStaticProps() {
-//   const resData = await fetch("http://localhost:3000/api/resources");
-//   const data = await resData.json();
-
-//   return {
-//     props: {
-//       resources: data
-//     }
-//   }
-// }
 
 export default Home;

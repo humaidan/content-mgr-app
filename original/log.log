@@ -1,0 +1,75 @@
+{
+  "sha": "2f7358010a7273e5df383a7a35def3689e943b86",
+  "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/trees/2f7358010a7273e5df383a7a35def3689e943b86",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1437c53f70bc211ec65739ec4a8c2a4db5874c73",
+      "size": 386,
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/blobs/1437c53f70bc211ec65739ec4a8c2a4db5874c73"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b12f3e33e7d5bdb88dde6f2e09a42367592e2241",
+      "size": 1581,
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/blobs/b12f3e33e7d5bdb88dde6f2e09a42367592e2241"
+    },
+    {
+      "path": "components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3ffe92a2cf1eaf0444ade871289720a0b7770e91",
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/trees/3ffe92a2cf1eaf0444ade871289720a0b7770e91"
+    },
+    {
+      "path": "jsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36aa1a4dc28f1a7d72c037a4ef0d4274701d1728",
+      "size": 50,
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/blobs/36aa1a4dc28f1a7d72c037a4ef0d4274701d1728"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2452eacde0f2aea01af7187f0a5be8039577dc87",
+      "size": 74807,
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/blobs/2452eacde0f2aea01af7187f0a5be8039577dc87"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f164f5d1116f2351c1175565d282edc4b021d74",
+      "size": 341,
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/blobs/3f164f5d1116f2351c1175565d282edc4b021d74"
+    },
+    {
+      "path": "pages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a450d55b4565e8de8fb449d06842747689e825f2",
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/trees/a450d55b4565e8de8fb449d06842747689e825f2"
+    },
+    {
+      "path": "public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c38d0c1acae8ee04381388256285a658d41ea6cb",
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/trees/c38d0c1acae8ee04381388256285a658d41ea6cb"
+    },
+    {
+      "path": "styles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "267f4eb4ce2e9836d7b33e35552b49b9954e8498",
+      "url": "https://api.github.com/repos/Jerga99/content-manager-app/git/trees/267f4eb4ce2e9836d7b33e35552b49b9954e8498"
+    }
+  ],
+  "truncated": false
+}
